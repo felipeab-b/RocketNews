@@ -66,6 +66,9 @@ form > input {
     padding-left: 0.7rem;
 }
 
+form > input:focus {
+    outline: 0;
+}
 
 form > button {
     position: relative;
